@@ -18,7 +18,7 @@ h1::after {
   content: "";
   display: block;
   width: 200px;
-  height: 1.3px;
+  height: 1px;
   background-color: #444;
   margin: 20px auto;
 }
@@ -40,10 +40,10 @@ p {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.9)
     ),
-    url("../assets/images/Helmet.png");
+    url("../assets/images/helmet.png");
 
   background-size: cover;
-  background-position: center;
+
 
   animation: fadeIn 2.5s ease-out;
 }
