@@ -40,7 +40,7 @@ p {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.9)
     ),
-    url("../assets/images/helmet.png");
+    url("../images/helmet.png");
 
   background-size: cover;
 
@@ -277,4 +277,5 @@ p {
 
 .character-group a:hover {
   color: #ffffff;
+
 }
