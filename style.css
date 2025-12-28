@@ -40,7 +40,7 @@ p {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.9)
     ),
-     url("../helmet.png");
+    background-image: url("/dark-souls-lore/helmet.png");
 
   background-size: cover;
 
@@ -279,6 +279,7 @@ p {
   color: #ffffff;
 
 }
+
 
 
 
